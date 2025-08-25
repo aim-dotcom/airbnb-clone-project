@@ -49,3 +49,38 @@ Builds Trust: Clear pricing, transparent policies, and secure checkout reassure 
 Boosts Engagement: Smooth navigation and well-placed calls-to-action guide users naturally through the booking journey
 Supports Accessibility: Inclusive design ensures that all users (including those with disabilities) can easily book.
 Increases Conversions: A streamlined experience translates directly into higher booking rates and satisfied customers.
+
+##Project Roles and Responsibilities
+Project Manager
+- Oversee project timelines and deliverables
+- Coordinate communication between team members
+- Manage risks and ensure milestones are met	Ensures the project stays on track, within scope, and aligned with deadlines.
+- 
+Frontend Developers
+- Implement UI/UX designs using web technologies (React, Vue, etc.)
+- Build responsive, accessible, and interactive components
+- Integrate with backend APIs	Deliver a smooth and user-friendly interface that enhances customer experience.
+  
+Backend Developers	- Design and implement RESTful/GraphQL APIs
+- Manage databases, authentication, and booking logic
+- Ensure data security and scalability	Provide the core business logic and data handling, ensuring reliability and performance.
+  
+Designers (UI/UX)	- Create wireframes, mockups, and prototypes
+- Define style guides, color palettes, and typography
+- Focus on usability and accessibility	Enhance usability, brand identity, and overall appeal of the platform.
+  
+QA/Testers	- Write and execute test cases (unit, integration, end-to-end)
+- Identify and report bugs
+- Ensure cross-browser and cross-device compatibility	Maintain product quality by ensuring that features work as intended.
+  
+DevOps Engineers	- Set up CI/CD pipelines for automated deployments
+- Manage cloud infrastructure and scaling
+- Monitor system health and performance	Guarantee smooth deployments, system stability, and scalability.
+  
+Product Owner	- Define project vision and goals
+- Prioritize features in the product backlog
+- Act as the voice of the customer	Ensure the product delivers value to end-users and meets business objectives.
+  
+Scrum Master	- Facilitate agile ceremonies (stand-ups, retrospectives, sprint planning)
+- Remove roadblocks for the team
+- Promote continuous improvement	Keeps the team agile, motivated, and aligned with Scrum best practices.
