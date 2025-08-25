@@ -50,7 +50,7 @@ Boosts Engagement: Smooth navigation and well-placed calls-to-action guide users
 Supports Accessibility: Inclusive design ensures that all users (including those with disabilities) can easily book.
 Increases Conversions: A streamlined experience translates directly into higher booking rates and satisfied customers.
 
-##Project Roles and Responsibilities
+#Project Roles and Responsibilities
 Project Manager
 - Oversee project timelines and deliverables
 - Coordinate communication between team members
