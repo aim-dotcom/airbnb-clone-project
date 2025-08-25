@@ -84,3 +84,23 @@ Product Owner	- Define project vision and goals
 Scrum Master	- Facilitate agile ceremonies (stand-ups, retrospectives, sprint planning)
 - Remove roadblocks for the team
 - Promote continuous improvement	Keeps the team agile, motivated, and aligned with Scrum best practices.
+
+  ## 🧩 UI Component Patterns  
+
+To maintain consistency, reusability, and scalability, the project will use well-defined UI components. These components will be modular and styled consistently to ensure a smooth user experience across the platform.  
+
+### Planned Components  
+
+| Component | Description | Purpose / Key Features |
+|-----------|-------------|-------------------------|
+| **Navbar** | A top navigation bar visible on all main pages. | - Provides quick access to Home, Browse Listings, and User Profile.<br>- Includes search input (location, dates, guests).<br>- Responsive design (collapsible menu on mobile). |
+| **Property Card** | A reusable card to display property information in listing pages. | - Thumbnail image of property.<br>- Property title, price per night, rating.<br>- Short description or key amenities.<br>- Clickable to navigate to the detailed view. |
+| **Footer** | A bottom section providing secondary navigation and information. | - Links to About, Contact, Help Center, Terms & Privacy.<br>- Social media icons.<br>- Responsive layout. |
+| **Search/Filter Bar** | A component for searching and filtering listings. | - Location, date range, and guest selector.<br>- Dropdown filters (price range, amenities, ratings).<br>- Sticky on scroll for convenience. |
+| **Booking Form** | A form component to initiate the booking process. | - Date picker for check-in/check-out.<br>- Guest selector.<br>- Dynamic price calculation. |
+| **Review Section** | A reusable section to display reviews for properties. | - Star rating system.<br>- User comments and profile image.<br>- Add Review form (if authenticated). |
+
+---
+
+
+
